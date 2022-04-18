@@ -121,3 +121,23 @@ box-shadow: 5px 0px 5px 0px rgba(0, 0, 50, 0.97);
 float: left;
 width: 50px;
 }
+th, td {
+    border: 1px solid;
+  }
+  
+  table {
+    border-collapse: collapse;
+    width: 60%; 
+  }
+th {
+  height: 50px;
+}
+tbody th {
+  background-color: powderblue;
+  color: black;
+  text-align: left;
+}
+th {
+  background-color: #04AA6D;
+  color: black;
+}
